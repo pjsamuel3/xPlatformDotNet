@@ -12,8 +12,8 @@ This respository contains the material for a workshop to investigate and explore
 ## PC
 
 - Latest version of Visual Studio - https://www.visualstudio.com/downloads/
--- It might work with VS code but there will be a lot of messing about
--- I suggest Community Edition at the very least
+- It might work with VS code but there will be a lot of messing about
+- I suggest Community Edition at the very least
 
 These are the features I think you should install
 - Visual Studio core editor
