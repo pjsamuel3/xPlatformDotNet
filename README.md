@@ -7,6 +7,30 @@ Audience: Developers from both Java and .NET camps. Mac and PC friendly (You’l
 
 This respository contains the material for a workshop to investigate and explore .NET Standard
 
+# Prerequisites
+
+## PC
+
+- Latest version of Visual Studio - https://www.visualstudio.com/downloads/
+-- It might work with VS code but there will be a lot of messing about
+-- I suggest Community Edition at the very least
+
+These are the features I think you should install
+- Visual Studio core editor
+- Universal Windows Platform development
+- ASP.NET and web development
+- Azure development
+- Mobile development with .NET
+- .NET Core cross-platform development
+
+- Android Studio
+-- Includes the Android SDK Manager
+
+## Mac
+- Visual Studio For Mac
+- XCode (from the app store)
+- Android Studio [Optional - I think...]
+
 # Slides
 https://github.com/pjsamuel3/xPlatformDotNet/raw/master/slides/XPlatformDotnet.pptx
 
