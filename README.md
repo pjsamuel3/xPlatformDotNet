@@ -9,10 +9,10 @@ This respository contains the material for a workshop to investigate and explore
 
 # Prerequisites
 
-## PC
-
 See the Xamarin advice first
 https://developer.xamarin.com/guides/cross-platform/getting_started/requirements/
+
+## PC
 
 - Latest version of Visual Studio - https://www.visualstudio.com/downloads/
 - It might work with VS code but there will be a lot of messing about
