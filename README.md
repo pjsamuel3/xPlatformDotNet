@@ -11,11 +11,15 @@ This respository contains the material for a workshop to investigate and explore
 
 ## PC
 
+See the Xamarin advice first
+https://developer.xamarin.com/guides/cross-platform/getting_started/requirements/
+
 - Latest version of Visual Studio - https://www.visualstudio.com/downloads/
 - It might work with VS code but there will be a lot of messing about
 - I suggest Community Edition at the very least
 
 These are the features I think you should install
+
 - Visual Studio core editor
 - Universal Windows Platform development
 - ASP.NET and web development
@@ -23,12 +27,13 @@ These are the features I think you should install
 - Mobile development with .NET
 - .NET Core cross-platform development
 
-- Android Studio
--- Includes the Android SDK Manager
+Extras that I have but might not be needed
+
+- Android Studio (Which includes the Android SDK Manager)
 
 ## Mac
-- Visual Studio For Mac
-- XCode (from the app store)
+- Visual Studio For Mac - https://docs.microsoft.com/en-us/visualstudio/mac/
+- XCode (from the app store or https://developer.apple.com/xcode/download/)
 - Android Studio [Optional - I think...]
 
 # Slides
