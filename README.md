@@ -8,6 +8,7 @@ Audience: Developers from both Java and .NET camps. Mac and PC friendly (You’l
 This respository contains the material for a workshop to investigate and explore .NET Standard
 
 # Slides
+https://github.com/pjsamuel3/xPlatformDotNet/raw/master/slides/XPlatformDotnet.pptx
 
 # References
 - https://blog.xamarin.com/building-xamarin-forms-apps-net-standard/
