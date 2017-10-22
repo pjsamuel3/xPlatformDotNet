@@ -20,6 +20,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Miles.People.List\Miles.People.List.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\PeoplePage.xaml.cs">
+      <DependentUpon>PeoplePage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="App.xaml">
       <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
@@ -27,6 +37,9 @@
       <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\ItemDetailPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\PeoplePage.xaml">
       <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\ItemsPage.xaml">

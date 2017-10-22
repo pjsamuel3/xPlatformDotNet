@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Miles.People.List
 {
-    class Company
+    public class Company
     {
         public Company()
         {

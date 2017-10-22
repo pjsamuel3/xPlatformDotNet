@@ -8,7 +8,7 @@ namespace Miles.People
     {
         public MainPage()
         {
-            Page itemsPage, aboutPage = null;
+            Page itemsPage, aboutPage, peoplePage = null;
 
             switch (Device.RuntimePlatform)
             {
@@ -18,17 +18,28 @@ namespace Miles.People
                         Title = "Browse"
                     };
 
+                    peoplePage = new NavigationPage(new PeoplePage())
+                    {
+                        Title = "People"
+                    };
+
                     aboutPage = new NavigationPage(new AboutPage())
                     {
                         Title = "About"
                     };
                     itemsPage.Icon = "tab_feed.png";
                     aboutPage.Icon = "tab_about.png";
+                    peoplePage.Icon = "tab_about.png";
                     break;
                 default:
                     itemsPage = new ItemsPage()
                     {
                         Title = "Browse"
+                    };
+
+                    peoplePage = new PeoplePage()
+                    {
+                        Title = "People"
                     };
 
                     aboutPage = new AboutPage()
@@ -39,6 +50,7 @@ namespace Miles.People
             }
 
             Children.Add(itemsPage);
+            Children.Add(peoplePage);
             Children.Add(aboutPage);
 
             Title = Children[0].Title;
