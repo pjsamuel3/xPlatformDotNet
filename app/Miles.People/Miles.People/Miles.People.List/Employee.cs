@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Miles.People.List
+﻿namespace Miles.People.List
 {
     public class Employee
     {

@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  miles.people.core:
+    image: miles.people.core
+    build:
+      context: ./Miles.People.Core
+      dockerfile: Dockerfile

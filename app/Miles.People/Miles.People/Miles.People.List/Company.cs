@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Miles.People.List
 {
     public class Company
     {
-        public Company()
-        {
-
-        }
-
         public IEnumerable<Employee> GetEmployees()
         {
             return new List<Employee> {
