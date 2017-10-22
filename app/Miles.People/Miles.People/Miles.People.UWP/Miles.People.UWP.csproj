@@ -136,7 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Miles.People\Miles.People.csproj">
-      <Project>{e89b2a46-c0e4-46a1-b1d8-6286fc8a00f0}</Project>
+      <Project>{c86a406b-fc39-428c-ae97-3e69f32a6cd7}</Project>
       <Name>Miles.People</Name>
     </ProjectReference>
   </ItemGroup>
