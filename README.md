@@ -47,3 +47,4 @@ https://github.com/pjsamuel3/xPlatformDotNet/raw/master/slides/XPlatformDotnet.p
 - https://github.com/xamarin/xamarin-forms-samples/tree/master/Phoneword
 - https://developer.xamarin.com/samples-all/
 - https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-dotnetcore
+- https://www.youtube.com/playlist?list=PLRAdsfhKI4OWx321A_pr-7HhRNk7wOLLY
